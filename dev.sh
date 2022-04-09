@@ -1,5 +1,2 @@
-This is shell scripting cod
-
-
-update 
-e
+This is shell scripting code
+X=100
